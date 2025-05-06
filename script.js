@@ -1,4 +1,4 @@
-const apiKey = 'dbbb525e785d08f230cfefa0f35ea00c'; // Remplacez par votre clé API OpenWeatherMap
+const apiKey = 'CLE_API'; // Remplacez par votre clé API OpenWeatherMap
 const weatherCardsContainer = document.getElementById('weatherCards');
 const cityInput = document.getElementById('cityInput');
 const searchButton = document.getElementById('searchButton');
